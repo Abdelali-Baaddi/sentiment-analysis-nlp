@@ -3,7 +3,7 @@ Prediction Module for Sentiment Analysis
 """
 import pickle
 import numpy as np
-from preprocessing import TextPreprocessor
+from src.preprocessing import TextPreprocessor
 
 
 class SentimentPredictor:
